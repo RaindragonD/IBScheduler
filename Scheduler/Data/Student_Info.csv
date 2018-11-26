@@ -1,0 +1,32 @@
+Instruction:,"Input student names and their 6 course selections (saparate each subject and level into 2 cells, 12 cells in total).Note that the name of subject has to be consistant across three input files( Teacher_Info, Student_Info, and Course_Info).Level has to be ""HL"" or ""SL"".Make sure that total Number of Students (row below) is correct.  ",,,,,,,,,,,
+toal number of students:,29,,,,,,,,,,,
+Student Name,Subject,Level,Subject,Level,Subject,Level,Subject,Level,Subject,Level,Subject,Level
+Emma,Chi,SL,Eng A,SL,Busi,HL,Math,HL,Chem,HL,CS,SL
+Will,Chi,SL,Eng B,HL,Econ,HL,Math,HL,Phy,SL,CS,SL
+Ade,Chi,SL,Eng B,HL,Econ,SL,Math,HL,Phy,HL,CS,SL
+Amy,Chi,SL,Eng A,SL,Busi,HL,Math,HL,CS,SL,Bio,HL
+Shirley,Chi,SL,Eng A,SL,Busi,HL,Math,HL,Phy,HL,CS,SL
+Ivy,Chi,SL,Eng A,SL,Busi,HL,Math,HL,Phy,HL,CS,SL
+Chloe,Chi,SL,Eng A,SL,Econ,HL,Math,HL,CS,SL,Bio,HL
+Katherine,Chi,SL,Eng A,SL,Econ,SL,Math,HL,Busi,HL,CS,SL
+Odyssey,Chi,SL,Eng A,SL,Busi,SL,Math,HL,Phy,HL,CS,HL
+Cynthia,Chi,SL,Eng B,HL,Busi,SL,Math,HL,Chem,SL,Bio,HL
+Wendy,Chi,HL,Eng A,SL,Econ,HL,Math,SL,Chem,SL,Bio,SL
+Jessie,Chi,SL,Eng A,SL,Busi,HL,Math,HL,Chem,SL,Art,SL
+Jerry H,Chi,SL,Eng B,HL,Econ,SL,Math,HL,Phy,HL,CS,HL
+Jerry F,Chi,SL,Eng A,SL,Econ,SL,Math,HL,Chem,HL,Bio,HL
+Ruby,Chi,SL,Eng B,HL,Econ,HL,Math,HL,Phy,SL,Bio,SL
+Stephany,Chi,HL,Eng A,SL,Busi,SL,Math,HL,Chem,SL,Phy,HL
+Rita,Chi,HL,Eng B,HL,Econ,HL,Math,SL,Phy,SL,Art,SL
+Richard,Chi,SL,Eng A,SL,Econ,HL,Math,HL,Chem,SL,Phy,HL
+Mandy,Chi,SL,Eng A,SL,Econ,SL,Math,HL,Chem,HL,Bio,HL
+Cara,Chi,SL,Eng B,HL,Busi,SL,Math,HL,Phy,HL,Bio,SL
+Stella,Chi,SL,Eng B,HL,Busi,SL,Math,HL,Chem,HL,CS,SL
+Rachel,Chi,SL,Eng A,SL,Econ,HL,Math,HL,Bio,HL,Music,SL
+Maya,Chi,SL,Eng B,HL,Busi,SL,Math,HL,Phy,HL,Econ,SL
+Phil,Chi,SL,Eng A,SL,Econ,HL,Math,HL,Chem,HL,Music,SL
+Lily,Chi,SL,Eng B,HL,Econ,HL,Math,SL,Bio,HL,Music,SL
+Charlie,Chi,HL,Eng A,SL,Busi,SL,Math,HL,Phy,SL,Econ,HL
+Estelle,Chi,SL,Eng B,HL,Econ,HL,Math,HL,Phy,SL,Bio,SL
+Moon,Chi,SL,Eng B,HL,Econ,SL,Math,HL,Phy,HL,Bio,SL
+Mary,Chi,HL,Eng A,SL,Econ,SL,Math,HL,Bio,HL,Music,SL

@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/RaindragonD/Desktop/Scheduler
+-d
+/Users/RaindragonD/Desktop/Scheduler/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/RaindragonD/Desktop/Scheduler/Initiate.java
+<---- end of javadoc command ---->
+Loading source file /Users/RaindragonD/Desktop/Scheduler/Initiate.java...
+/Users/RaindragonD/Desktop/Scheduler/Initiate.java:53: error: ')' expected
+            && generationCount<20k) {
+                                 ^
+/Users/RaindragonD/Desktop/Scheduler/Initiate.java:53: error: ';' expected
+            && generationCount<20k) {
+                                  ^
+2 errors

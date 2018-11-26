@@ -1,0 +1,19 @@
+Instruction:,"Input teacher names and their responsible subjects. (exlcuding levels)Note that the name of subject has to be consistant across three input files( Teacher_Info, Student_Info, and Course_Info).Make sure that total Number of Teachers (row below) is correct."
+Total Number of Teachers:,16
+Name,Subject
+Goetz,Eng A
+Collins,Eng B
+HeLL,Chi
+Liu,Chi
+Fei,Math
+Trythall,Math
+Bradley,Busi
+Wong,Phy
+Arias,Chem
+Elicia,Chem
+Engler,Bio
+James,Econ
+Lily,Econ
+Pete,CS
+ArtTea,Art
+MusicTea,Music

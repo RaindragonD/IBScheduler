@@ -1,0 +1,23 @@
+Instruction:,"Input available courses including their subjects and levels.Note that the name of subject has to be consistant across three input files( Teacher_Info, Student_Info, and Course_Info.)Level has to be ""HL"" or ""SL"".Make sure that total Number of Couses (row below) is correct.",
+Number of Courses: ,20,
+Course,Level,Class Number
+Eng A,SL,2
+Eng B,HL,2
+Chi,HL,1
+Chi,SL,3
+Math,SL,1
+Math,HL,3
+Busi,HL,1
+Busi,SL,1
+Phy,HL,2
+Phy,SL,1
+Chem,SL,1
+Chem,HL,1
+Bio,SL,2
+Bio,HL,1
+Econ,HL,2
+Econ,SL,1
+CS,HL,1
+CS,SL,1
+Art,SL,1
+Music,SL,1

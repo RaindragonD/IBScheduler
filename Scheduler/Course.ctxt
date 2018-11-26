@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=subject\ level\ CN
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment10.params=aTeacher
+comment10.target=void\ addTeacher(Teacher)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getSubject()
+comment3.params=
+comment3.target=java.lang.String\ getLevel()
+comment4.params=
+comment4.target=int\ getCN()
+comment5.params=
+comment5.target=java.util.ArrayList\ getClassList()
+comment6.params=
+comment6.target=java.util.ArrayList\ getTeacherList()
+comment7.params=
+comment7.target=java.util.ArrayList\ getStuList()
+comment8.params=aClass
+comment8.target=void\ addClass(IBClass)
+comment9.params=aStudent
+comment9.target=void\ addStudent(Student)
+numComments=12

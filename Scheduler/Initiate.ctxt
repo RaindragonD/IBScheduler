@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Initiate
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=popSize
+comment2.target=Initiate(int)
+comment3.params=
+comment3.target=void\ runGA()
+comment4.params=
+comment4.target=void\ clearFile()
+comment5.params=
+comment5.target=void\ importData()
+comment6.params=indiv
+comment6.target=void\ output(Individual)
+comment7.params=groups\ indiv
+comment7.target=java.util.ArrayList\ intoGroups(java.util.HashMap,\ Individual)
+numComments=8

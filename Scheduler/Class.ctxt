@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=sub\ lev\ group
+comment0.target=Class(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getSubject()
+comment10.params=
+comment10.target=java.lang.String\ tostring()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getGroup()
+comment3.params=
+comment3.target=java.lang.String\ getLevel()
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=int\ getClassSize()
+comment6.params=
+comment6.target=java.util.ArrayList\ getStuList()
+comment7.params=id
+comment7.target=void\ setID(int)
+comment7.text=public\ Teacher\ getTeacher(){\n\ \ \ \ \ \ \ \ return\ resTeacher;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ void\ setTeacher(Teacher\ resTeacher){\n\ \ \ \ \ \ \ \ this.resTeacher\ \=\ resTeacher;\n}
+comment8.params=group
+comment8.target=void\ setGroup(int)
+comment9.params=aStudent
+comment9.target=void\ addStudent(java.lang.String)
+numComments=12

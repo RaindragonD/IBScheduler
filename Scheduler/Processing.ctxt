@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Processing
+comment1.params=
+comment1.target=Processing()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ generateMenu()
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=fit
+comment5.target=void\ change(int)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+comment8.params=fitness
+comment8.target=void\ reload(double)
+comment9.params=
+comment9.target=void\ stopInfo()
+numComments=11

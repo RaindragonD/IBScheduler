@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Population
+comment1.params=populationSize\ initialize
+comment1.target=Population(int,\ boolean)
+comment2.params=index
+comment2.target=Individual\ getIndividual(int)
+comment3.params=
+comment3.target=Individual\ getFittest()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=index\ ind
+comment5.target=void\ saveIndividual(int,\ Individual)
+numComments=6

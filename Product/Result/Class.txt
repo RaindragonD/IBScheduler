@@ -1,0 +1,355 @@
+The class information (class size, class ID, and student names) classified according to groups.
+*** The student have more than one class in a group
+%%% The class size is not suitable
+&&& Two classes of a subject are in the same group, but only one teacher for the subject
+
+*************************
+GROUP1
+TOTAL STUDENT NUMBER 30
+*************************
+Chi HL 1
+	Class Size 5
+	Group 1
+	Student Info:
+		Wendy
+		Stephany
+		Rita
+		Charlie
+		Mary
+Busi HL 1
+	Class Size 6
+	Group 1
+	Student Info:
+		Emma
+		Amy
+		Shirley
+		Ivy
+		Katherine
+		Jessie
+CS HL 1
+	Class Size 2
+	Group 1
+	Student Info:
+		***Odyssey
+		Jerry H
+Chi SL 1
+	Class Size 8
+	Group 1
+	Student Info:
+		Will
+		Jerry F
+		Ruby
+		Mandy
+		Stella
+		Moon
+		Cynthia
+		Ade
+Econ HL 1
+	Class Size 2
+	Group 1
+	Student Info:
+		%%%Chloe
+		%%%Lily
+Phy HL 1
+	Class Size 4
+	Group 1
+	Student Info:
+		***Odyssey
+		Richard
+		Cara
+		Maya
+Music SL 1
+	Class Size 2
+	Group 1
+	Student Info:
+		%%%Phil
+		%%%Rachel
+Bio SL 1
+	Class Size 1
+	Group 1
+	Student Info:
+		%%%Estelle
+
+
+*************************
+GROUP2
+TOTAL STUDENT NUMBER 28
+*************************
+Math SL 1
+	Class Size 3
+	Group 2
+	Student Info:
+		Wendy
+		Rita
+		Lily
+Busi SL 1
+	Class Size 7
+	Group 2
+	Student Info:
+		Odyssey
+		Cynthia
+		Stephany
+		Cara
+		Stella
+		Maya
+		Charlie
+Math HL 1
+	Class Size 9
+	Group 2
+	Student Info:
+		Emma
+		Amy
+		Jessie
+		Jerry F
+		Ruby
+		Richard
+		Mandy
+		Moon
+		Mary
+Chi SL 2
+	Class Size 8
+	Group 2
+	Student Info:
+		Shirley
+		Ivy
+		Chloe
+		Katherine
+		Jerry H
+		Phil
+		Estelle
+		Rachel
+CS SL 1
+	Class Size 1
+	Group 2
+	Student Info:
+		%%%Ade
+
+
+*************************
+GROUP3
+TOTAL STUDENT NUMBER 29
+*************************
+Phy SL 1
+	Class Size 5
+	Group 3
+	Student Info:
+		***Will
+		Ruby
+		Rita
+		Charlie
+		Estelle
+Chem SL 1
+	Class Size 5
+	Group 3
+	Student Info:
+		Cynthia
+		Wendy
+		Jessie
+		Stephany
+		Richard
+Chem HL 1
+	Class Size 5
+	Group 3
+	Student Info:
+		***Emma
+		Jerry F
+		Mandy
+		Stella
+		Phil
+CS SL 2
+	Class Size 6
+	Group 3
+	Student Info:
+		***Emma
+		***Will
+		Amy
+		Shirley
+		Chloe
+		Katherine
+Math HL 2
+	Class Size 2
+	Group 3
+	Student Info:
+		%%%Ivy
+		%%%Jerry H
+Bio SL 2
+	Class Size 2
+	Group 3
+	Student Info:
+		%%%Cara
+		%%%Moon
+Chi SL 3
+	Class Size 1
+	Group 3
+	Student Info:
+		%%%Maya
+Music SL 2
+	Class Size 2
+	Group 3
+	Student Info:
+		%%%Lily
+		%%%Mary
+Econ HL 2
+	Class Size 1
+	Group 3
+	Student Info:
+		%%%Rachel
+
+
+*************************
+GROUP4
+TOTAL STUDENT NUMBER 28
+*************************
+Bio HL 1
+	Class Size 8
+	Group 4
+	Student Info:
+		Amy
+		Chloe
+		Cynthia
+		Jerry F
+		Mandy
+		Lily
+		Mary
+		Rachel
+Art SL 1
+	Class Size 2
+	Group 4
+	Student Info:
+		Jessie
+		Rita
+Econ HL 3
+	Class Size 4
+	Group 4
+	Student Info:
+		Will
+		Wendy
+		Ruby
+		Richard
+Phy HL 2
+	Class Size 6
+	Group 4
+	Student Info:
+		Shirley
+		Ivy
+		Jerry H
+		Stephany
+		Moon
+		Ade
+Math HL 3
+	Class Size 8
+	Group 4
+	Student Info:
+		Katherine
+		Odyssey
+		Cara
+		Stella
+		Maya
+		Phil
+		Charlie
+		Estelle
+
+
+*************************
+GROUP5
+TOTAL STUDENT NUMBER 30
+*************************
+Econ SL 1
+	Class Size 8
+	Group 5
+	Student Info:
+		Katherine
+		Jerry H
+		Jerry F
+		Mandy
+		Maya
+		Moon
+		Mary
+		***Ade
+Chi SL 4
+	Class Size 7
+	Group 5
+	Student Info:
+		Emma
+		Amy
+		Odyssey
+		Jessie
+		Richard
+		Cara
+		Lily
+Math HL 4
+	Class Size 7
+	Group 5
+	Student Info:
+		Will
+		Shirley
+		Chloe
+		Cynthia
+		Stephany
+		***Ade
+		Rachel
+CS SL 3
+	Class Size 2
+	Group 5
+	Student Info:
+		%%%Ivy
+		%%%Stella
+Bio SL 3
+	Class Size 2
+	Group 5
+	Student Info:
+		%%%Wendy
+		%%%Ruby
+Econ HL 4
+	Class Size 4
+	Group 5
+	Student Info:
+		Rita
+		Phil
+		Charlie
+		Estelle
+
+
+*************************
+GROUP6
+TOTAL STUDENT NUMBER 29
+*************************
+Eng A SL 1
+	Class Size 17
+	Group 6
+	Student Info:
+		Emma
+		Amy
+		Shirley
+		Ivy
+		Chloe
+		Katherine
+		Odyssey
+		Wendy
+		Jessie
+		Jerry F
+		Stephany
+		Richard
+		Mandy
+		Rachel
+		Phil
+		Charlie
+		Mary
+Eng B HL 1
+	Class Size 12
+	Group 6
+	Student Info:
+		Will
+		Ade
+		Cynthia
+		Jerry H
+		Ruby
+		Rita
+		Cara
+		Stella
+		Maya
+		Lily
+		Estelle
+		Moon
+
+

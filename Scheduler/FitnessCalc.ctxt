@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FitnessCalc
+comment1.params=individual
+comment1.target=int\ getFitness(Individual)
+comment2.params=
+comment2.target=int\ getMaxFitness()
+numComments=3

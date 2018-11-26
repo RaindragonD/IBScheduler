@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Algorithm
+comment1.params=val
+comment1.target=void\ setElitism(boolean)
+comment2.params=pop
+comment2.target=Population\ evolvePopulation(Population)
+comment3.params=indiv1\ indiv2
+comment3.target=Individual\ crossover(Individual,\ Individual)
+comment4.params=indiv
+comment4.target=void\ mutate(Individual)
+comment5.params=pop
+comment5.target=Individual\ tournamentSelection(Population)
+comment6.params=groups\ target
+comment6.target=int\ findGroup(java.util.HashMap,\ Gene)
+numComments=7

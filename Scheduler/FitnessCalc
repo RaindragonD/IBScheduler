@@ -1,0 +1,103 @@
+import java.util.ArrayList;
+public class FitnessCalc
+{
+    static int classNumber;
+    
+    public static int getFitness(Individual individual) {
+        int fitness=0;
+        classNumber = individual.getSize();
+        
+        for(int i=0; i<individual.getSize();i++){
+            //a class
+            Gene cl = individual.getGene(i);
+            String subject = cl.getSubject();
+            String level = cl.getLevel();
+            
+            boolean stuRight=false;
+            //test if students in the class have right subjects and levels            
+            ArrayList<Student> stulist = cl.getStuList();
+            for(int j=0; j<stulist.size();j++){
+                //a Student
+                stuRight=false;
+                Student stu = stulist.get(j);
+                String[][] stucoslist = stu.getCourseList();
+                for(int k=0;k<stucoslist.length;k++){
+                    String sub = stucoslist[k][0];
+                    String lev = stucoslist[k][1];
+                    if(sub.equals(subject)&&lev.equals(level)){
+                        stuRight=true;
+                        break;
+                    }
+                }                
+            }
+            if(stuRight){
+                fitness++;
+            }            
+            
+            Teacher teacher = cl.getTeacher();
+            //test if the teacher in the class has right subject and level 
+            if(teacher.getSubject().equals(subject)) fitness++;            
+                    
+            //test if teachers teach less than thier maximum
+            if(teacher.getCN()<=teacher.getMaxCN()) fitness++;
+            
+            //test if each class has more than 5 students
+            if(cl.getSupCourse().getCN()!=1){
+                if(cl.getClassSize() > 2){fitness++;}
+            }
+        }
+        
+        ArrayList<ArrayList<Class>> garr= individual.catGroups();  
+        for(int _i=0;_i<6;_i++){
+            //a group
+            ArrayList<Class> g=garr.get(_i);
+            
+            for (int j=0;j<g.size();j++){
+                //a class
+                boolean _t1cin1g=true;
+                Class _c = g.get(j);
+                //test if a teacher only teaches no more than 1 class in a group
+                String _t = _c.getTeacher().getName();                    
+                for(int k=0;k<g.size();k++){
+                    //a class
+                    if(k==j){ break;}
+                    Class _cla = g.get(k);
+                    String _teacher = _cla.getTeacher().getName();
+                    if(_teacher.equals(_t)){
+                        _t1cin1g=false;
+                        break;
+                    }
+                }                    
+                if(_t1cin1g){
+                    fitness++;
+                }
+                
+                //test if a student has 1 class in a group
+                boolean _s1cin1g=true;
+                ArrayList<Student> _slist = _c.getStuList();
+                for(int m=0;m<_slist.size();m++){
+                    //a student
+                    _s1cin1g=true;
+                    String _s = _slist.get(m).getName();
+                    for(int n=0;n<_slist.size();n++){
+                        // a student
+                        if(n==m){ break;}
+                        String _student = _slist.get(n).getName();
+                        if(_s.equals(_student)){
+                            _s1cin1g=false;
+                            break;
+                        }                    
+                    }
+                }
+                if(_s1cin1g){
+                    fitness++;
+                }
+            }                                      
+        }
+        return fitness;
+    }
+    
+    static int getMaxFitness(){
+        return classNumber*6;
+    }
+}*/
